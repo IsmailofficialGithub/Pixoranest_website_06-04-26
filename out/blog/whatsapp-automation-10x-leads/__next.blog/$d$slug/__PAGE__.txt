@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63407,["/_next/static/chunks/8b6f7e15ca23687d.js","/_next/static/chunks/ae9bd4acf0423798.js","/_next/static/chunks/878ceee6a62477dc.js","/_next/static/chunks/f66a5b493da04ef5.js"],"BlogArticleContent"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"Ie7BitBU96YPxAZf680NP","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"title":"How WhatsApp Automation Can 10X Your Business Leads","slug":"whatsapp-automation-10x-leads","excerpt":"Learn how WhatsApp automation captures leads at scale and converts them into paying customers.","date":"Jan 20, 2026","category":"Automation","readTime":"6 min read","author":"PixoraNest Team","featured":false},"article":null,"heroImage":"/blog/whatsapp-leads.jpg","slug":"whatsapp-automation-10x-leads"}],[["$","script","script-0",{"src":"/_next/static/chunks/f66a5b493da04ef5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
